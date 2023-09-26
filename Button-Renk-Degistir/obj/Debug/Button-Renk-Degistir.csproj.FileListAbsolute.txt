@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\bin\Debug\Button-Renk-Degistir.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\bin\Debug\Button-Renk-Degistir.exe
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\bin\Debug\Button-Renk-Degistir.pdb
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\obj\Debug\Button-Renk-Degistir.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\obj\Debug\Button_Renk_Degistir.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\obj\Debug\Button_Renk_Degistir.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\obj\Debug\Button-Renk-Degistir.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\obj\Debug\Button-Renk-Degistir.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\obj\Debug\Button-Renk-Degistir.exe
+C:\Users\student\Desktop\Ahmet\ntp\Button-Renk-Degistir\Button-Renk-Degistir\obj\Debug\Button-Renk-Degistir.pdb
